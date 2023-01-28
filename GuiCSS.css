@@ -1,0 +1,21 @@
+#attack-gui {
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#attack-button {
+  padding: 10px 20px;
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
