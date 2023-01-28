@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="attack_gui.css">
+  </head>
+  <body>
+    <div id="attack-gui">
+      <h1>Attack Town</h1>
+      <label for="ship-number">Number of Ships:</label>
+      <input type="number" id="ship-number">
+      <br>
+      <label for="arrival-time">Arrival Time:</label>
+      <input type="text" id="arrival-time" placeholder="HH:MM:SS">
+      <br>
+      <button id="attack-button">Attack</button>
+    </div>
+    <script src="attack_gui.js"></script>
+  </body>
+</html>
